@@ -1,8 +1,7 @@
 # Prueba de certificación (Desarrollador de Aplicaciones Fullstack Java Trainee)
 Institución: Talento Digital para Chile
 
-EXAMEN DE CERTIFICACIÓN
-Caso “Classicmodels Sales Force”
+EXAMEN DE CERTIFICACIÓN: Caso “Classicmodels Sales Force”
 
 “Classicmodels” es una empresa dedicada a la fabricación y comercialización de modelos a escala
 de distintos tipos de vehículos motorizados tales como automóviles, motocicletas, trenes y aviones,
