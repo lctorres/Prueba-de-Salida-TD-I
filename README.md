@@ -30,16 +30,13 @@ del sistema:
 
 • El sistema debe permitir la consulta de inventarios y existencia de los productos de las
 distintas líneas (automóviles, motocicletas, trenes, aviones, etc).
-
 • El sistema debe permitir la consulta de las órdenes que se encuentran en proceso.
-
 • El sistema debe permitir el cálculo de descuentos y promociones al momento de ingresar
 una orden.
 
 A la fecha, ha transcurrido gran parte del proyecto y se tiene el siguiente avance:
 
 • Ya se cuenta con un prototipo funcional del aplicativo.
-
 • Existe un modelo de datos diseñado.
 • Existe una base de datos con datos de prueba.
 • Existe una aplicación web desarrollada con Spring Framework que desarrolla algunas de
